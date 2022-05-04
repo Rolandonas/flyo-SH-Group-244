@@ -1,0 +1,185 @@
+body{
+    background-color:hsl(218, 28%, 13%);
+    font-family: sans-serif;
+}
+.button{
+    background-image: linear-gradient( to right, hsl(176, 68%, 64%),hsl(198, 60%, 50%));
+  border:none;
+  padding:20px 90px 20px 90px;
+  margin: auto;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight: 400;
+  display: block;
+}
+
+.logo img{
+    width: 140px;
+    margin: auto;
+    padding: 0px 50px 0px 0px;
+}
+.hometools li{
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.8;
+    display: inline;
+    font-family: sans-serif;
+    margin:0px 0px;
+    text-align: right;
+    padding: 00px 0px 0px 0px;
+}
+
+
+
+
+.text{
+    color: hsl(0, 0%, 100%)
+}
+.text1{
+    color: hsl(0, 0%, 100%)
+}
+.access{
+    background-color:none;
+    max-width: 350px;
+    margin: 0 auto;
+
+}
+
+.access img{
+    max-width: 100px;
+    display: block;
+    margin:0 auto;
+    padding:80px 0px 0px 0px;
+}
+.access h2{
+    color: hsl(0, 0%, 100%);
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 700;
+    margin: 20px 0px 0px 0px;
+}
+.access p{
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+    line-height: 1.2;
+    text-align: center;
+    margin: 010px;
+    padding: 0px 30px 0px 30px;
+    opacity: 0.8;
+}
+    /******Acess end*****/
+    .security img{
+        max-width: 100px;
+        display: block;
+        margin:0 auto;
+        padding:80px 0px 0px 0px;
+    }
+    .security h2{
+        color: hsl(0, 0%, 100%);
+        font-size: 18px;
+        font-family: sans-serif;
+        text-align: center;
+        font-weight: 700;
+        margin: 20px 0px 0px 0px;
+    }
+    .security p{
+        color: hsl(0, 0%, 100%);
+        font-size: 14px;
+        line-height: 1.2;
+        text-align: center;
+        margin: 10px;
+        padding: 0px 30px 0px 30px;
+        opacity: 0.8;
+    }
+        /******security end*****/
+        .real img{
+            max-width: 100px;
+            display: block;
+            margin:0 auto;
+            padding:80px 0px 0px 0px;
+        }
+        .real h2{
+            color: hsl(0, 0%, 100%);
+            font-size: 18px;
+            font-family: sans-serif;
+            text-align: center;
+            font-weight: 700;
+            margin: 20px 0px 0px 0px;
+        }
+        .real p{
+            color: hsl(0, 0%, 100%);
+            font-size: 14px;
+            line-height: 1.2;
+            text-align: center;
+            margin: 10px;
+            padding: 0px 30px 0px 30px;
+            opacity: 0.8;}
+
+          /******real end*****/
+
+        .store img{
+            max-width: 100px;
+            display: block;
+            margin:0 auto;
+            padding:80px 0px 0px 0px;
+        }
+        .store h2{
+            color: hsl(0, 0%, 100%);
+            font-size: 18px;
+            font-family: sans-serif;
+            text-align: center;
+            font-weight: 700;
+            margin: 20px 0px 0px 0px;
+        }
+        .store p{
+            color: hsl(0, 0%, 100%);
+            font-size: 14px;
+            line-height: 1.2;
+            text-align: center;
+            margin: 10px;
+            padding: 0px 30px 0px 30px;
+            opacity: 0.8;}
+
+          /******real end*****/
+
+
+.stay p{
+    opacity: 0.8;
+    color: hsl(0, 0%, 100%);
+}
+.illustration img{
+    max-width: 80%;
+    display: block;
+    margin:0 auto;
+    padding:80px 0px 0px 0px;
+}
+.illustration h2{
+font: 16px;
+font-family: sans-serif;
+font-weight: 700;
+margin: 40px 0px 20px 0px;
+color: hsl(0, 0%, 100%);
+text-align: center;
+}
+.illustration p{
+font: 14px;
+font-family: sans-serif;
+opacity: 0.7;
+font-weight: 400;
+margin: 40px 0px 20px 0px;
+color: hsl(0, 0%, 100%);
+}
+a{
+    color:hsl(0, 0%, 100%);
+    text-decoration: none;
+}
+.hr{
+   width: 160px;
+   margin: 20px 0px 20px 0px;
+}
+.icon img{
+    display: inline;
+    padding: 0px;
+}
